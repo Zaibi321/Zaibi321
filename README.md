@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Zaibi321
-- 👀 I’m interested in Front-end development
+- 👋 Hi, I’m Shahzaib
 - 🌱 I’m currently learning Front end web development
-- 💞️ I’m looking to collaborate on Webd development
+- 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ik3910801@gmail.com
 
 <!---
 Zaibi321/Zaibi321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
