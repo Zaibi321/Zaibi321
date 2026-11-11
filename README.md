@@ -1,4 +1,4 @@
-aa# Hi, I'm Shahzaib
+# Hi, I'm Shahzaib
 
 ### Full-Stack Developer
 
@@ -18,9 +18,9 @@ I'm a developer passionate about building modern, responsive, and scalable web a
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zaibi321&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaibi321layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
